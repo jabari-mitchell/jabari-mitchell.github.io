@@ -1,0 +1,28 @@
+{
+
+  "users":
+          [
+
+            {
+              "DisplayName" : "Greg Hillson",
+              "EmailAddress" : "GregsHill@smail.com",
+              "Username" : "kothgreg",
+              "Password" : "12345"
+            },
+
+            {
+              "DisplayName" : "John Simone",
+              "EmailAddress" : "JimSim@gmail.com",
+              "Username" : "jimsim",
+              "Password" : "67890"
+            },
+
+            {
+              "DisplayName" : "Admin",
+              "EmailAddress" : "admin@example.com",
+              "Username" : "admin",
+              "Password" : "55555"
+            }
+          ]
+
+}
